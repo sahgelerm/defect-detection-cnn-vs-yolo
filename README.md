@@ -120,15 +120,16 @@ https://ai-hunter.ru/tbr2025
 - сохранена в `my_model.keras`;
 - готова к интеграции.
 
-Запуск
-
-```bash
-python src/inference.py --image path.jpg
-
 Ключевой вывод
 
 CNN-подход показал:
+
 •	высокую точность; 
 •	устойчивость к неполным данным ;
 •	простоту интеграции
 и может рассматриваться как альтернатива YOLO в задачах детекции.
+
+Запуск
+
+```bash
+python src/inference.py --image path.jpg
