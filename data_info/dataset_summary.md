@@ -9,7 +9,7 @@ Total: 1991
 ## 3 classes (full)
 Total: 2801
 
-## 4 classes
+## 4 classes (unbalanced)
 Total: 1787
 
 ## 5 classes
